@@ -12,6 +12,7 @@ namespace BilgeAdamBoostGrup4
 {
     public partial class Form1 : Form
     {
+        string utku2 = "Utku Test";
         public Form1()
         {
             InitializeComponent();
