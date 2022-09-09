@@ -17,5 +17,7 @@ namespace BilgeAdamBoostGrup4
         {
             InitializeComponent();
         }
+
+        string utkuTest;
     }
 }
